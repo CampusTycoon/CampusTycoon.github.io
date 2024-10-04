@@ -1,4 +1,4 @@
-# CampusTycoons Homepage and Infomration
+# CampusTycoons Homepage and Information
 
 testing testing
 
