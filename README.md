@@ -1,4 +1,4 @@
-# CampusTycoons.github.io
+# CampusTycoons Homepage and Infomration
 
 testing testing
 
