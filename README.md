@@ -1,4 +1,4 @@
-# CampusTycoons Homepage and Information
+# CampusTycoon Homepage and Information
 
 Link to <a href="https://drive.google.com/drive/u/0/folders/1L6UOYRRj4aPvws7LvPctX814vb00CaBg"> Google Drive </a>
 <br>
