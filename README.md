@@ -1,5 +1,4 @@
-# CampusTycoon Homepage and Information
-
+# TESTING
 <head>
   <link rel="icon" href="https://github.com/CampusTycoon/CampusTycoon.github.io/blob/main/Logo_No_Text-Circle.png">
 </head>
