@@ -1,5 +1,7 @@
 # CampusTycoon Homepage and Information
 
+<link rel="icon" type="image/x-icon" href="https://developer.spotify.com/images/guidelines/design/icon3.svg">
+
 Link to <a href="https://drive.google.com/drive/u/0/folders/1L6UOYRRj4aPvws7LvPctX814vb00CaBg"> Google Drive </a>
 <br>
 Link to <a href="http://www.plantuml.com/plantuml/png/ZLB1ZjGm3BtlL_W88_Y7XLqDckiEWhFRE1r3anJRtQf_Jn9QKaO2SQhxulVoxBn7DHHREdqumHE6QLQuSfX7j2Jm2GCzd4xmGZzc5WeKJJDeDnAEGpuvmIMoCOx0qKXUcPQAdbdKO4pBUy-EHhOL9acMR9seDbofJz71vSZQbC7FKhySVPA0nYc-WpHnp8K2PfedSXtsty5B2j3FQYcGL8sNB2mExCOA3WrhVo-4He0Wnq5SwkTIbGcVINc8kTfB-4gTiXMt3JjBYbOOH_1ZDaBH7RdRtXhmZ8OTAi5rLQFmD_xzHGM4IvZ6whXk8YC729Rcye2wxRexUCYse3lOBUiV1Drlj6phdsnVZDtHhS4b1WdebMIr6yS1QAmwy9dKyd_L_qB2dlisJar1n16iTUslK_zPTIQjlK_RO_zFxmVdX5Gt2DwSzs3ziL5Wl-V2lVsLzf7sySzSV9K8bvaW-PBZRzHREstHXuNjTeXZqzg8Rix4HufkwVGd"> Work Breakdown Diagram </a>
