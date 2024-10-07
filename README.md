@@ -1,6 +1,9 @@
 # CampusTycoon Homepage and Information
 
-<link rel="icon" type="image/x-icon" href="https://developer.spotify.com/images/guidelines/design/icon3.svg">
+<head>
+  <title>ENG1.9</title>
+  <link rel="icon" type="image/x-icon" href="https://developer.spotify.com/images/guidelines/design/icon3.svg">
+</head>
 
 Link to <a href="https://drive.google.com/drive/u/0/folders/1L6UOYRRj4aPvws7LvPctX814vb00CaBg"> Google Drive </a>
 <br>
