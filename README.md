@@ -1,8 +1,7 @@
 # CampusTycoon Homepage and Information
 
 <head>
-  <title>ENG1.9</title>
-  <link rel="icon" type="image/png" href="https://github.com/CampusTycoon/CampusTycoon.github.io/blob/main/Spotify.png">
+  <link rel="icon" href="https://github.com/CampusTycoon/CampusTycoon.github.io/blob/main/Logo_No_Text-Circle.png">
 </head>
 
 Link to <a href="https://drive.google.com/drive/u/0/folders/1L6UOYRRj4aPvws7LvPctX814vb00CaBg"> Google Drive </a>
