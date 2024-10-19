@@ -75,6 +75,21 @@
   <div class="footer">
         <p>University of York, 2024. All Rights Reserved.</p>
     </div>
+
+  <script>
+        window.addEventListener('mousemove', (event) => {
+            const x = event.clientX;
+            const y = event.clientY;
+
+            const width = window.innerWidth;
+            const height = window.innerHeight;
+
+            const xPercent = Math.floor((x / width) * 255);
+            const yPercent = Math.floor((y / height) * 255);
+
+            document.body.style.backgroundColor = `rgb(${xPercent}, ${yPercent}, 150)`;
+        });
+    </script>
 </body>
   
 </html>
