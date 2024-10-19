@@ -7,7 +7,6 @@
   <style>
       body {
             background-color: rgba(246, 150, 77, 0.3);
-            transition: background-color 0.3s ease;
       }
     
       .center-all {
@@ -37,16 +36,6 @@
             color: white;
             background-color: blue;
     }
-
-    .trail {
-            position: absolute;
-            width: 10px;
-            height: 10px;
-            border-radius: 50%;
-            background-color: rgba(255, 0, 0, 0.5);
-            pointer-events: none;
-            transform: translate(-50%, -50%);
-        }
     </style>
 </head>
 
@@ -86,16 +75,6 @@
   <div class="footer">
         <p>University of York, 2024. All Rights Reserved.</p>
     </div>
-
-  <div class="trail" id="trail"></div>
-
-    <script>
-        const trail = document.getElementById('trail');
-        window.addEventListener('mousemove', (event) => {
-            trail.style.left = `${event.clientX}px`;
-            trail.style.top = `${event.clientY}px`;
-        });
-    </script>
 </body>
   
 </html>
