@@ -92,9 +92,20 @@
   <button><a class = "button" href="https://www.york.ac.uk/"> Implementation </a></button>
 
   <button></button>
-  <button><a class = "button" href="https://www.york.ac.uk/"> TESTING </a></button>
+  <button><a class = "button" href="#" onclick="downloadFile()"> TESTING </a></button>
   <button></button>
   </div>
+
+  <script>
+    function downloadFile() {
+      const link = document.createElement('a');
+      link.href = "https://raw.githubusercontent.com/CampusTycoon/CampusTycoon.github.io/refs/heads/main/Campus%20Tycoon.txt";
+      link.setAttribute("download", "testing.txt");
+      document.body.appendChild(link);
+      link.click();
+      document.body.removeChild(link);
+    }
+  </script>  
 
   <!-- Footer -->
   <div class="footer">
