@@ -5,8 +5,8 @@ import com.badlogic.gdx.InputProcessor;
 import CampusTycoon.GameLogic.Coordinate;
 
 public class InputHandler implements InputProcessor {
-	static Coordinate camera = new Coordinate();
-	static float zoom = 1;
+	public static Coordinate camera = new Coordinate();
+	public static float zoom = 1;
 	private Coordinate mouseDragPos;
 	
 	public InputHandler() {
